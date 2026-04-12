@@ -48,6 +48,11 @@ Student_Academic_Performance_Evaluation/
 - Helps understand how different attributes affect student performance
 - Visual representation for better interpretation of data
 
+## 📸 Screenshots
+
+![Analysis](assets/screenshots/Screenshot%202026-04-12%20163450.png)
+![Analysis](assets/screenshots/Screenshot%202026-04-12%20163523.png)
+![Results](assets/screenshots/Screenshot%202026-04-12%20163546.png)
 ---
 
 ## 🚀 How to Run the Project
@@ -58,8 +63,4 @@ git clone https://github.com/your-username/Student_Academic_Performance_Evaluati
 
 #visualizations and Heatmap generated
 
-## 📸 Screenshots
 
-![Analysis](assets/screenshots/Screenshot%202026-04-12%20163450.png)
-![Analysis](assets/screenshots/Screenshot%202026-04-12%20163523.png)
-![Results](assets/screenshots/Screenshot%202026-04-12%20163546.png)
