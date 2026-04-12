@@ -60,8 +60,6 @@ git clone https://github.com/your-username/Student_Academic_Performance_Evaluati
 
 ## 📸 Screenshots
 
-![Screenshot 1](assets/screenshots/Screenshot%202026-04-12%20163450.png)
-
-![Screenshot 2](assets/screenshots/Screenshot%202026-04-12%20163523.png)
-
-![Screenshot 3](assets/screenshots/Screenshot%202026-04-12%20163546.png)
+![Analysis](assets/screenshots/Screenshot%202026-04-12%20163450.png)
+![Analysis](assets/screenshots/Screenshot%202026-04-12%20163523.png)
+![Results](assets/screenshots/Screenshot%202026-04-12%20163546.png)
