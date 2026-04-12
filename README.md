@@ -55,3 +55,7 @@ Student_Academic_Performance_Evaluation/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/Student_Academic_Performance_Evaluation.git
+
+#visualizations and Heatmap generated
+D:\New Volume\OneDrive\Pictures\Screenshots\
+Screenshot 2026-04-12 163450.png
