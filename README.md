@@ -50,9 +50,20 @@ Student_Academic_Performance_Evaluation/
 
 ## 📸 Screenshots
 
-![Analysis](assets/screenshots/Screenshot%202026-04-12%20163450.png)
-![Analysis](assets/screenshots/Screenshot%202026-04-12%20163523.png)
-![Results](assets/screenshots/Screenshot%202026-04-12%20163546.png)
+![NULL_Columns_Heatmap](assets/screenshots/Screenshot%202026-04-12%20163450.png)
+
+
+
+
+
+![Analysis_heatmap](assets/screenshots/Screenshot%202026-04-12%20163523.png)
+
+
+
+
+
+
+![Analysis_heatmap](assets/screenshots/Screenshot%202026-04-12%20163546.png)
 ---
 
 ## 🚀 How to Run the Project
