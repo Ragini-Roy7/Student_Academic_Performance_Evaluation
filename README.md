@@ -72,6 +72,6 @@ Student_Academic_Performance_Evaluation/
 ```bash
 git clone https://github.com/your-username/Student_Academic_Performance_Evaluation.git
 
-#visualizations and Heatmap generated
+
 
 
