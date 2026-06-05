@@ -43,6 +43,8 @@ Student_Academic_Performance_Evaluation/
 
 ---
 
+
+##deployment using streamlit 
 ## 📈 Output & Insights
 - Identifies relationships between academic factors
 - Helps understand how different attributes affect student performance
