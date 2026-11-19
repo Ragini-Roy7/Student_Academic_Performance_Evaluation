@@ -68,7 +68,7 @@ Student_Academic_Performance_Evaluation/
 ![Analysis_heatmap](assets/screenshots/Screenshot%202026-04-12%20163546.png)
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Clone the repository
 ```bash
